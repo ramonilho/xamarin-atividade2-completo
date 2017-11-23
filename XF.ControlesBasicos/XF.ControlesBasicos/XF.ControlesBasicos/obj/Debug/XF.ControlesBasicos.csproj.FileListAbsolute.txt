@@ -1,0 +1,17 @@
+C:\Users\Administrator\Downloads\XF.ControlesBasicos_Completo1\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\bin\Debug\XF.ControlesBasicos.dll
+C:\Users\Administrator\Downloads\XF.ControlesBasicos_Completo1\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\bin\Debug\XF.ControlesBasicos.pdb
+C:\Users\Administrator\Downloads\XF.ControlesBasicos_Completo1\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Administrator\Downloads\XF.ControlesBasicos_Completo1\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Administrator\Downloads\XF.ControlesBasicos_Completo1\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Administrator\Downloads\XF.ControlesBasicos_Completo1\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Administrator\Downloads\XF.ControlesBasicos_Completo1\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Administrator\Downloads\XF.ControlesBasicos_Completo1\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Administrator\Downloads\XF.ControlesBasicos_Completo1\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Administrator\Downloads\XF.ControlesBasicos_Completo1\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Administrator\Downloads\XF.ControlesBasicos_Completo1\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\obj\Debug\XF.ControlesBasicos.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\XF.ControlesBasicos_Completo1\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\obj\Debug\XF.ControlesBasicos.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\XF.ControlesBasicos_Completo1\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\obj\Debug\XF.ControlesBasicos.MainPage.xaml.g.cs
+C:\Users\Administrator\Downloads\XF.ControlesBasicos_Completo1\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\obj\Debug\XF.ControlesBasicos.App.xaml.g.cs
+C:\Users\Administrator\Downloads\XF.ControlesBasicos_Completo1\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\obj\Debug\XF.ControlesBasicos.ConfigPage.xaml.g.cs
+C:\Users\Administrator\Downloads\XF.ControlesBasicos_Completo1\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\obj\Debug\XF.ControlesBasicos.dll
+C:\Users\Administrator\Downloads\XF.ControlesBasicos_Completo1\XF.ControlesBasicos\XF.ControlesBasicos\XF.ControlesBasicos\obj\Debug\XF.ControlesBasicos.pdb
